@@ -23,7 +23,7 @@ An end-to-end Business Intelligence solution built in Power BI for a manufacturi
 
 This project presents a comprehensive Business Intelligence solution developed for **Averson Manufacturing Company** using **Power BI**.
 
-The objective was to analyze key business functions—including production, sales, inventory, supply chain, and workforce performance—to provide management with actionable insights for strategic decision-making.
+The objective was to analyze key business functions including production, sales, inventory, supply chain, and workforce performance, to provide management with actionable insights for strategic decision-making.
 
 ---
 
@@ -165,7 +165,7 @@ Future versions may include:
 - Predictive forecasting
 - Demand forecasting
 - Machine performance analysis
-- Real-time reporting
+- Real time reporting
 
 ---
 
