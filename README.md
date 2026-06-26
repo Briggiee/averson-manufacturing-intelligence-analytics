@@ -97,7 +97,45 @@ This dashboard enables management to:
 
 ## 📷 Dashboard Preview
 
-*(Dashboard screenshots will be added here.)*
+### 📊 Executive Overview
+
+![Executive Overview](Images/01-executive-overview.png)
+
+---
+
+### 💰 Sales Analysis
+
+![Sales Analysis](Images/02-sales-analysis.png)
+
+---
+
+### 🏭 Production Analysis
+
+![Production Analysis](Images/03-production-analysis.png)
+
+---
+
+### 📦 Inventory Analysis
+
+![Inventory Analysis](Images/04-inventory-analysis.png)
+
+---
+
+### 🚚 Supply Chain Analysis
+
+![Supply Chain Analysis](Images/05-supply-chain-analysis.png)
+
+---
+
+### 👥 Workforce Analysis
+
+![Workforce Analysis](Images/06-workforce-analysis.png)
+
+---
+
+### 💡 Business Insights & Strategic Recommendations
+
+![Insights](Images/07-insights-recommendations.png)
 
 ---
 
@@ -109,6 +147,27 @@ Future versions may include:
 - Demand forecasting
 - Machine performance analysis
 - Real-time reporting
+
+---
+
+## 💼 Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- Power Query
+- DAX Calculations
+- KPI Development
+- Dashboard Design
+- Business Analysis
+- Data Visualization
+- Executive Reporting
+- Data Storytelling
+
+---
+
+## 📌 Key Takeaways
+
+This project demonstrates my ability to transform manufacturing data into meaningful business insights through interactive dashboards and executive reporting. It highlights my skills in data preparation, KPI development, visualization design, and communicating recommendations that support strategic decision-making.
 
 ---
 
