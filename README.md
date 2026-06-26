@@ -1,6 +1,11 @@
 # 🏭 Averson Manufacturing Intelligence Analytics
 
-An end-to-end Business Intelligence solution built in Power BI for a manufacturing company, featuring seven interactive dashboards covering executive reporting, sales, production, inventory, supply chain, workforce analytics, and strategic business insights.
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-00B294?style=for-the-badge)
+
+An end-to-end Business Intelligence solution built in Power BI for a manufacturing company, featuring seven interactive dashboards covering executive reporting, sales, production, inventory, supply chain, workforce analytics and strategic business insights.
 
 ![Executive Dashboard](Images/01-executive-overview.png)
 
@@ -23,7 +28,7 @@ An end-to-end Business Intelligence solution built in Power BI for a manufacturi
 
 This project presents a comprehensive Business Intelligence solution developed for **Averson Manufacturing Company** using **Power BI**.
 
-The objective was to analyze key business functions including production, sales, inventory, supply chain, and workforce performance, to provide management with actionable insights for strategic decision-making.
+The objective was to analyze key business functions including production, sales, inventory, supply chain and workforce performance, to provide management with actionable insights for strategic decision-making.
 
 ---
 
